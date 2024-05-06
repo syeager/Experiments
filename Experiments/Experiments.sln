@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkExperiments", "EntityFrameworkExperiments\EntityFrameworkExperiments.csproj", "{8B3AA50B-D49A-4450-80ED-3149B3CF7083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.Core", "People.Core\People.Core.csproj", "{DC9ED87F-0F22-4EFE-9E1D-426812AD3E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "People.Core", "People.Core\People.Core.csproj", "{DC9ED87F-0F22-4EFE-9E1D-426812AD3E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Results", "Results\Results.csproj", "{780B286C-90C8-4B65-8644-28FD859B9D9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DC9ED87F-0F22-4EFE-9E1D-426812AD3E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC9ED87F-0F22-4EFE-9E1D-426812AD3E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC9ED87F-0F22-4EFE-9E1D-426812AD3E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780B286C-90C8-4B65-8644-28FD859B9D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780B286C-90C8-4B65-8644-28FD859B9D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780B286C-90C8-4B65-8644-28FD859B9D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780B286C-90C8-4B65-8644-28FD859B9D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
